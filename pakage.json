@@ -15,7 +15,7 @@
         "main": "main.fx"
       },
       "path": "",
-      "description": "Math library for Flux",
+      "description": "cMath library for Flux",
       "dependencies": {}
     }
   }
